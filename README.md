@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thiagocantero
 - 👀 I’m interested in Web Development and Data Science
 - 🌱 I’m currently learning VueJS, Pandas and much more ;)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thiagocantero@gmail.com or my website www.thiagocantero.com.br
 
 <!---
