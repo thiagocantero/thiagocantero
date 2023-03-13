@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 📖 About Me:
 👋 Hi, I’m @thiagocantero<br>👀 I’m interested in Web Development and Data Science<br>🌱 I’m currently learning VueJS, Pandas and much more ;)<br>📫 How to reach me thiagocantero@gmail.com or my website www.thiagocantero.com.br
 
 
